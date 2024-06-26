@@ -9,7 +9,7 @@ Aplikasi PDF File Converter berbasis desktop dibangun menggunakan Python. Aplika
 
 - os: Digunakan untuk operasi sistem seperti mengelola jalur file dan nama file selama proses konversi.
 
-Setelah aplikasi dikembangkan, file Python (.py) yang berisi kode aplikasi dikonversi menjadi file executable (.exe) menggunakan library py_to_exe. Konversi ini memungkinkan aplikasi untuk dijalankan pada sistem Windows tanpa memerlukan instalasi Python, membuat distribusi dan penggunaan aplikasi lebih mudah bagi pengguna akhir.
+Setelah aplikasi dikembangkan, file Python (.py) yang berisi kode aplikasi dikonversi menjadi file executable (.exe) menggunakan library auto-py-to-exe. Konversi ini memungkinkan aplikasi untuk dijalankan pada sistem Windows tanpa memerlukan instalasi Python, membuat distribusi dan penggunaan aplikasi lebih mudah bagi pengguna akhir.
 
 Fitur utama dari aplikasi ini meliputi:
 
