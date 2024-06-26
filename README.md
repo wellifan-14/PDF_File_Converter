@@ -16,3 +16,5 @@ Fitur utama dari aplikasi ini meliputi:
 - Konversi Word ke PDF: Pengguna dapat memilih file .docx dan mengonversinya menjadi PDF dengan satu klik.
 - Konversi PowerPoint ke PDF: File presentasi .pptx dapat dikonversi menjadi PDF untuk distribusi yang lebih mudah.
 - Konversi Gambar ke PDF: Aplikasi ini mendukung konversi berbagai format gambar (seperti .jpg, .jpeg, .png) ke PDF.
+
+Berikut proses konversi file menggunakan antarmuka library python auto-py-to-exe
