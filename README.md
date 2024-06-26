@@ -26,12 +26,20 @@ Fitur utama dari aplikasi ini meliputi:
 File Aplikasi PDF File Converter (.exe) : [Link 1](https://drive.google.com/file/d/1usbLiy0Ml2vbvUtF74BfJV1wGgkhPv07/view?usp=drive_link)
 
  Screenshot Tampilan Awal Aplikasi:
+ 
+ <kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/SS_Tampilan_Awal_Aplikasi.png" width="700"></kbd>
 
  Screenshot Tampilan Pengkonversi File Word ke File Pdf:
+ 
+ <kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/SS_Tampilan_Word_ke_PDF.png" width="700"></kbd>
 
  Screenshot Tampilan Pengkonversi File Konversi PowerPoint ke PDF:
+ 
+ <kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/SS_Tampilan_Powerpoint_ke_PDF.png" width="700"></kbd>
 
  Screenshot Tampilan Pengkonversi File Gambar ke PDF:
+ 
+ <kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/SS_Tampilan_Gambar_ke_PDF.png" width="700"></kbd>
  
 
 
