@@ -11,10 +11,19 @@ Aplikasi PDF File Converter berbasis desktop dibangun menggunakan Python. Aplika
 
 Setelah aplikasi dikembangkan, file Python (.py) yang berisi kode aplikasi dikonversi menjadi file executable (.exe) menggunakan library auto-py-to-exe. Konversi ini memungkinkan aplikasi untuk dijalankan pada sistem Windows tanpa memerlukan instalasi Python, membuat distribusi dan penggunaan aplikasi lebih mudah bagi pengguna akhir.
 
+Berikut proses konversi file menggunakan antarmuka library python auto-py-to-exe:
+<kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/1_SS_auto_py_to_exe.png" width="700"></kbd>
+
+<kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/2_SS_auto_py_to_exe.png" width="400"></kbd>
+
+
+
+
+
 Fitur utama dari aplikasi ini meliputi:
 
 - Konversi Word ke PDF: Pengguna dapat memilih file .docx dan mengonversinya menjadi PDF dengan satu klik.
 - Konversi PowerPoint ke PDF: File presentasi .pptx dapat dikonversi menjadi PDF untuk distribusi yang lebih mudah.
 - Konversi Gambar ke PDF: Aplikasi ini mendukung konversi berbagai format gambar (seperti .jpg, .jpeg, .png) ke PDF.
 
-Berikut proses konversi file menggunakan antarmuka library python auto-py-to-exe
+
