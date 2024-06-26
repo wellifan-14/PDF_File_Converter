@@ -16,14 +16,22 @@ Berikut proses konversi file menggunakan antarmuka library python auto-py-to-exe
 
 <kbd><img src="https://github.com/wellifan-14/PDF_File_Converter/blob/main/2_SS_auto_py_to_exe.png" width="400"></kbd>
 
-
-
-
-
 Fitur utama dari aplikasi ini meliputi:
 
 - Konversi Word ke PDF: Pengguna dapat memilih file .docx dan mengonversinya menjadi PDF dengan satu klik.
 - Konversi PowerPoint ke PDF: File presentasi .pptx dapat dikonversi menjadi PDF untuk distribusi yang lebih mudah.
 - Konversi Gambar ke PDF: Aplikasi ini mendukung konversi berbagai format gambar (seperti .jpg, .jpeg, .png) ke PDF.
+
+## Hasil
+File Aplikasi PDF File Converter (.exe) : [Link 1](https://drive.google.com/file/d/1usbLiy0Ml2vbvUtF74BfJV1wGgkhPv07/view?usp=drive_link)
+
+ Screenshot Tampilan Awal Aplikasi:
+
+ Screenshot Tampilan Pengkonversi File Word ke File Pdf:
+
+ Screenshot Tampilan Pengkonversi File Konversi PowerPoint ke PDF:
+
+ Screenshot Tampilan Pengkonversi File Gambar ke PDF:
+ 
 
 
